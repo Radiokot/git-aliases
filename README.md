@@ -28,7 +28,7 @@ Contents:
   
   #Commiting
   ci = "commit -i"
-  c = "!git commit && git changed"
+  c = "!git commit"
   ca = "!git add --all && git c"
   cm = "commit --amend --no-edit"
   
